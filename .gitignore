@@ -1,0 +1,14 @@
+.project
+.classpath
+.settings
+target
+**/.project
+**/.classpath
+**/.settings
+**/.externalToolBuilders
+**/target
+.DS_Store
+.DS_Store?
+bin
+lib
+output.txt
